@@ -31,4 +31,4 @@ import App from '../components/app.vue';
 import Graph from "~/components/Graph.vue";
 
 const app = createApp(App).mount('#app')
-const app_2 = createApp(Graph).mount('#graph')
+const graph = createApp(Graph).mount('#graph')
